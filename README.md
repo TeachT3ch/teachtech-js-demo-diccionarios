@@ -1,4 +1,4 @@
-# Clase 7: Diccionarios y objectos en JavaScrips
+# Clase 7: Diccionarios y objectos en JavaScript
 
 Código de apoyo para explicar diccionarios y objetos en JavaScript durante la clase.
 
