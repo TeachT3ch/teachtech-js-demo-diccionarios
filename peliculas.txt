@@ -1,0 +1,11 @@
+Ejercicio: Películas
+
+Coge el listado de películas de https://gist.github.com/saniyusuf/406b843afdfb9c6a86e25753fe2761f4 y escribe código que:
+
+1. Cargue el listado en un diccionario JavaScript
+
+2. Responda a las siguientes preguntas:
+  a. ¿Cuántas películas hay en el listado?
+  b. ¿Cuántas están por estrenar?
+  c. ¿Cuántas tienen una calificación mayor de 9?
+  d. ¿En cuántas participa Matthew McConaughey? 
