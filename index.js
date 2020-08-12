@@ -146,7 +146,7 @@ let cuadros = [
 ];
 
 for (const cuadro of cuadros) {
-    if (cuadro["periodos"].indexOf("Barroco") == 0) {
+    if (cuadro["periodos"].indexOf("Barroco") != -1) {
         console.log(cuadro["nombre"], "de", cuadro["artista"]);
     }
 }       
